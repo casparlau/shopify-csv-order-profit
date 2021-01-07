@@ -1,0 +1,5 @@
+.vscode/
+
+model/__pycache__
+
+unicon_profit.code-workspace
